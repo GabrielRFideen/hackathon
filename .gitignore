@@ -1,0 +1,8 @@
+.env
+saida/
+__pycache__/
+.DS_Store
+video/build/
+saida_jira/
+saida_teste/
+.idea/

@@ -1,0 +1,88 @@
+[
+  {
+    "key": "ECL-101",
+    "summary": "Ajustar cálculo de frete no checkout",
+    "assignee": "colaborador006@exemplo.test",
+    "labels": ["ECL-01"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-09T09:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-09T11:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  },
+  {
+    "key": "ECL-102",
+    "summary": "Corrigir timeout na consulta de pedidos",
+    "assignee": "colaborador006@exemplo.test",
+    "labels": ["ECL-01"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-09T10:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-09T15:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  },
+  {
+    "key": "ECL-103",
+    "summary": "Revisar logs de integração",
+    "assignee": "colaborador006@exemplo.test",
+    "labels": ["ECL-01"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-09T15:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-09T18:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  },
+  {
+    "key": "FEN-202",
+    "summary": "Integração com gateway de pagamentos",
+    "assignee": "colaborador013@exemplo.test",
+    "labels": ["FÊN-02"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-13T09:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-14T18:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  },
+  {
+    "key": "COM-301",
+    "summary": "Migração do cadastro de clientes",
+    "assignee": "colaborador009@exemplo.test",
+    "labels": ["COM-01"],
+    "status": "In Progress",
+    "changelog": [
+      {"at": "2026-10-15T09:00", "field": "status", "from": "To Do", "to": "In Progress"}
+    ]
+  },
+  {
+    "key": "BOR-401",
+    "summary": "Ajuste no relatório de vendas",
+    "assignee": "colaborador014@exemplo.test",
+    "labels": ["BOR-02"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-13T14:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-13T18:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  },
+  {
+    "key": "INT-12",
+    "summary": "Card sem responsável (deve ser ignorado)",
+    "assignee": null,
+    "labels": [],
+    "status": "In Progress",
+    "changelog": [
+      {"at": "2026-10-14T09:00", "field": "status", "from": "To Do", "to": "In Progress"}
+    ]
+  },
+  {
+    "key": "EXT-7",
+    "summary": "Card de pessoa fora do PSOffice (deve ser ignorado)",
+    "assignee": "terceiro@fornecedor.test",
+    "labels": ["ECL-01"],
+    "status": "Done",
+    "changelog": [
+      {"at": "2026-10-16T09:00", "field": "status", "from": "To Do", "to": "In Progress"},
+      {"at": "2026-10-16T18:00", "field": "status", "from": "In Progress", "to": "Done"}
+    ]
+  }
+]
